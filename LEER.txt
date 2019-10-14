@@ -1,0 +1,20 @@
+UNIVERSIDAD NACIONAL EXPERIMENTAL DEL TÁCHIRA
+
+COMPUTACIÓN I SECCIÓN 9
+
+GABRIEL DÍAZ ANDRADE V-28230550
+
+INSTRUCCIONES
+
+Menú: Para Moverse en el menú usar flechas arriba y abajo (teclado) y enter para seleccionar.
+
+Juego: Estan Indicadas dentro del programa.
+
+MODOS DE JUEGO
+
+Clásico: Puedes elegir el nivel a jugar, tienes libertad de reiniciar el nivel en caso de que el juego quede sin movimientos
+
+Arcade: Se juegan todos los niveles uno detras de otro, no se puede reiniciar, solo termina cuando se completan los tres niveles, si te equivocas pierdes.
+
+Ambos modos tienen la posibilidad de salir al menú en cualquier momento de la partida con la tecla 'X'.
+
