@@ -1,20 +1,16 @@
-UNIVERSIDAD NACIONAL EXPERIMENTAL DEL T¡CHIRA
-
-COMPUTACI”N I SECCI”N 9
-
-GABRIEL DÕAZ ANDRADE V-28230550
+UNIVERSIDAD NACIONAL EXPERIMENTAL DEL T√ÅCHIRA
 
 INSTRUCCIONES
 
-Men˙: Para Moverse en el men˙ usar flechas arriba y abajo (teclado) y enter para seleccionar.
+Men√∫: Para Moverse en el men√∫ usar flechas arriba y abajo (teclado) y enter para seleccionar.
 
 Juego: Estan Indicadas dentro del programa.
 
 MODOS DE JUEGO
 
-Cl·sico: Puedes elegir el nivel a jugar, tienes libertad de reiniciar el nivel en caso de que el juego quede sin movimientos
+Cl√°sico: Puedes elegir el nivel a jugar, tienes libertad de reiniciar el nivel en caso de que el juego quede sin movimientos
 
 Arcade: Se juegan todos los niveles uno detras de otro, no se puede reiniciar, solo termina cuando se completan los tres niveles, si te equivocas pierdes.
 
-Ambos modos tienen la posibilidad de salir al men˙ en cualquier momento de la partida con la tecla 'X'.
+Ambos modos tienen la posibilidad de salir al men√∫ en cualquier momento de la partida con la tecla 'X'.
 
